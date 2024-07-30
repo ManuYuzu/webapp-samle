@@ -1,0 +1,13 @@
+{
+  "name": "web_app_00",
+  "version": "1.0.0",
+  "description": "VanillaJS web components app",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "manu_yuzu",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
